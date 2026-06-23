@@ -1,0 +1,8 @@
+{
+  "name": "translate-book-to-korean",
+  "description": "영어 원서/문서 PDF를 자연스러운 한국어로 번역하고 출판물 같은 단행본 PDF로 디자인까지 한 번에. 번역투 없는 존댓말 + 핵심 용어 병기 + 에디토리얼 단행본 디자인이 기본 산출물.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wineny"
+  }
+}

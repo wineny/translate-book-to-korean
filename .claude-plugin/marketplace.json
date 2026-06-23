@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "translate-book-to-korean",
+  "description": "영어 원서 PDF를 자연스러운 한국어로 번역하고 출판물 같은 단행본 PDF로 디자인하는 Claude Code 스킬",
+  "owner": {
+    "name": "wineny"
+  },
+  "plugins": [
+    {
+      "name": "translate-book-to-korean",
+      "description": "영어 PDF/원서를 자연스러운 한국어(존댓말·핵심용어 병기)로 병렬 3단계 번역하고, 에디토리얼 단행본 PDF로 디자인까지 한 번에. 'PDF 번역', '원서 번역', '번역해서 책으로' 요청에 사용.",
+      "version": "1.0.0",
+      "author": {
+        "name": "wineny"
+      },
+      "source": "./plugins/translate-book-to-korean",
+      "category": "productivity",
+      "strict": false
+    }
+  ]
+}
